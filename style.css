@@ -25,11 +25,12 @@
       ul
       {
         display:flex;
+        margin-left:10%;
       }
       li
       {
         list-style:none;
-        width:150px;
+        width:200px;
         height:40px;
         background-color:#542D0B;
         border-radius:15px;
