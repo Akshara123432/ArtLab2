@@ -25,7 +25,7 @@
       ul
       {
         display:flex;
-        margin-left:10%;
+        margin-left:20%;
       }
       li
       {
@@ -35,7 +35,7 @@
         background-color:#542D0B;
         border-radius:15px;
         text-align:center;
-        margin:10px;
+        margin:20px;
       }
       .navigation
       {
