@@ -52,6 +52,7 @@
         background-repeat:no-repeat;
         padding-left:23px;
         width:35%;
+        margin-left:10px;
       }
       #cart
       {
@@ -62,7 +63,7 @@
       }
       #artlab-image
       {
-        float:left;
+        margin-left:10px;
         margin-right:20px;
         height:50px;
         width:50px;
