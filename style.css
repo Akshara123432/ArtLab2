@@ -39,7 +39,7 @@
       }
       .navigation
       {
-        height:100px;
+        height:120px;
         width:100%;
         background-color:#CDC2B8;
         padding-top:20px;
@@ -52,22 +52,23 @@
         background-size:20px;
         background-repeat:no-repeat;
         padding-left:23px;
-        width:35%;
+        width:40%;
         margin-left:50px;
+        height:40px;
       }
       #cart
       {
         float:right;
         margin-right:20px;
-        height:50px;
-        width:50px;
+        height:70px;
+        width:70px;
       }
       #artlab-image
       {
         margin-left:10px;
         margin-right:20px;
-        height:50px;
-        width:50px;
+        height:70px;
+        width:70px;
       }
       .d
       {
