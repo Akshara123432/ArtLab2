@@ -35,7 +35,7 @@
         background-color:#542D0B;
         border-radius:15px;
         text-align:center;
-        margin:7px;
+        margin-left:10px;
       }
       .navigation
       {
@@ -80,6 +80,7 @@
       {
         width:100%;
         height:50%;
+        margin-top:10%;
       }
       .circle
       {
@@ -135,4 +136,18 @@ background: linear-gradient(356deg, rgba(220,138,71,1) 0%, rgba(177,114,54,1) 35
         width:100%;
         height:75%;
         margin-top:10%;
+      }
+      .truck{
+        height:25%;
+        width:50%;
+      }
+      }
+      .deals{
+        height:25%;
+        width:50%;
+      }
+      }
+      .discount{
+        height:25%;
+        width:50%;
       }
