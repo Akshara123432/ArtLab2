@@ -151,3 +151,18 @@ background: linear-gradient(356deg, rgba(220,138,71,1) 0%, rgba(177,114,54,1) 35
         height:25%;
         width:50%;
       }
+      .sociallinks
+      {
+        padding-left:2%;
+      }
+      #heading
+      {
+        font-size:50px;
+        color:white;
+        padding-left:30%;
+      }
+      .media
+      {
+        font-size:25px;
+        color:white;
+      }
